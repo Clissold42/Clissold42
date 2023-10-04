@@ -10,6 +10,11 @@
   <a href="https://linkedin.com/in/darylbull"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
   </p>
 
+## Technical Certifications
+
+These are some of my Microsoft Certifications.
+
+|![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
