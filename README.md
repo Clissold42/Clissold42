@@ -18,13 +18,6 @@ These are some of my Microsoft Certifications.
 |:---:|:---:|:---:|:---:|
 |![DP100](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-scientist-associate-600x600.png)|![DP900](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-fundamentals-600x600.png)|![AI100](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-engineer-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
 
-## Technical Certifications
-
-These are some of my Microsoft Certifications.
-|:---:|:---:|:---:|:---:|:---:|:---:| 
-|![AI900](https://github.com/Clissold42/Clissold42/blob/main/azure-ai-fundamentals-600x600.png)|
-
-
 
 
 ## Languages and Software:
