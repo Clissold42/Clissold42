@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on on Smart Stuff
 - 📫 How to reach me see my contact details
 
--  <!-- Social Links -->
+  <!-- Social Links -->
   <p align="center">
   <a href="https://linkedin.com/in/darylbull"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
   </p>
