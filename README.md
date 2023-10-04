@@ -12,7 +12,7 @@
 
 ## Technical Certifications
 
-These are some of my Microsoft Certifications.  
+These are some of my Certifications.  
 
 |[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|**IASSC Green Belt**
 |:---:|:---:|:---:|
