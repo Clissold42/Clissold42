@@ -22,7 +22,7 @@ These are some of my Microsoft Certifications.
 <img align="left" alt="python" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/python.png" />
 <img align="left" alt="RStudio" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/rstudio_104598.png" />
 
-<img align="left" alt="SAS" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/sas-logo-white-reversed-new.png" />
+<img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/Clissold42/blob/main/sas-logo-white-reversed-new.png" />
 
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
