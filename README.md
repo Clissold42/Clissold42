@@ -14,7 +14,7 @@
 
 These are some of my Microsoft Certifications.
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-|![AI900](https://[azure-ai-fundamentals-600x600.png](https://github.com/Clissold42/Clissold42/blob/main/azure-ai-fundamentals-600x600.png))|
+|![AI900](https://github.com/Clissold42/Clissold42/blob/main/azure-ai-fundamentals-600x600.png))|
 |![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
