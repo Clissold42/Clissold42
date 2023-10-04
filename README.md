@@ -7,7 +7,7 @@
 
   <!-- Social Links -->
   <p align="center"> 
-  <a href="https://linkedin.com/in/darylbull"><img width="40px" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/darylbull"><img width="80px" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
   </p>
 
 ## Technical Certifications
