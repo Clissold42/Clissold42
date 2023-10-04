@@ -18,8 +18,8 @@ These are some of my Microsoft Certifications.
 |![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
 
 ## Languages and Tools:
-<img align="left" alt="python" width="32px" src="https://github.com/Clissold42/Clissold42/blob/main/python.png" />
-
+<img align="left" alt="python" width="26px" src="https://github.com/Clissold42/Clissold42/blob/main/python.png" />
+<img align="left" alt="python" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/python.png" />
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
