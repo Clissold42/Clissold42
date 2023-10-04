@@ -24,7 +24,7 @@ These are some of my Microsoft Certifications.
 <img align="left" alt="python" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/python.png" />
 <img align="left" alt="RStudio" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/rstudio_104598.png" />
 <img align="left" alt="RStudio" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/Rlogo.png" />
-<img align="left" alt="Pthyontm" width="24px" src="hhttps://github.com/Clissold42/Clissold42/blob/main/python-logo-master-v3-TM.png" />
+<img align="left" alt="Pthyontm" width="24px" src="https://github.com/Clissold42/Clissold42/blob/main/python-logo-master-v3-TM.png" />
 <img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/Clissold42/blob/main/sas-logo-white-reversed-new.png" />
 
 <!---
