@@ -3,7 +3,7 @@
 - Other Stuff
 - 🌱 I’m currently learning Azure Data Lakes
 - 💞️ I’m looking to collaborate on on Smart Stuff
-- 📫 How to reach me see my contact details
+- 📫 How to reach me please message me via linkedIn
 
   <!-- Social Links -->
   <p align="center"> 
