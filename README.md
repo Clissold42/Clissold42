@@ -14,9 +14,9 @@
 
 These are some of my Microsoft Certifications.  
 
-|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|
-|:---:|:---:|
-|![DP900](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-fundamentals-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
+|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|**Green Belt**]
+|:---:|:---:|:---:|
+|![DP900](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-fundamentals-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|![Green Belt](https://github.com/Clissold42/Clissold42/blob/main/IASSC-Certification-Badge-Green-Belt-250x250.png)|
 
 
 
