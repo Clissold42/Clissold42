@@ -16,6 +16,7 @@ These are some of my Microsoft Certifications.
 |:---:|:---:|:---:|:---:|:---:|:---:| 
 |![AI900](https://github.com/Clissold42/Clissold42/blob/main/azure-ai-fundamentals-600x600.png))|
 |![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|
+
 <img align="left" alt="AI900" width="40px" src="(https://github.com/Clissold42/Clissold42/blob/main/azure-ai-fundamentals-600x600.png" />
 
 ## Languages and Tools:
