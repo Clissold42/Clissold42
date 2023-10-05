@@ -26,8 +26,8 @@ These are some of my Certifications.
 <img align="left" alt="RStudio" width="40px" src="https://github.com/Clissold42/images/blob/main/rstudio_104598.png" />
   <!--<img align="left" alt="RStudio" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/Rlogo.png" />-->
   <!--<img align="left" alt="Pthyontm" width="120px" src="https://github.com/Clissold42/Clissold42/blob/main/python-logo-master-v3-TM.png" />-->
-<img align="left" alt="Pthyon2stm" width="40px" src="https://github.com/Clissold42/Clissold42/blob/main/python-logo-only-2snakes.png" />
-<img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/Clissold42/blob/main/sas-logo-white-reversed-new.png" />
+<img align="left" alt="Pthyon2stm" width="40px" src="https://github.com/Clissold42/images/blob/main/python-logo-only-2snakes.png" />
+<img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/images/blob/main/sas-logo-white-reversed-new.png" />
 
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
