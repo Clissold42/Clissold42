@@ -34,6 +34,7 @@ These are some of my Certifications.
 <img align="left" alt="Pthyon2stm" width="40px" src="https://github.com/Clissold42/images/blob/main/python-logo-only-2snakes.png" />
 <img align="left" alt="SAP" width="60px" src="https://github.com/Clissold42/images/blob/main/Sap-48.png" />
 <img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/images/blob/main/sas-logo-white-reversed-new.png" />
+<img align="left" alt="Power-BI" width="60px" src="https://github.com/Clissold42/images/blob/main/Power-BI.png" />
 
 
 <!---
