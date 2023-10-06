@@ -8,7 +8,7 @@
 - Other Stuff
 - 🌱 I’m currently learning Azure Data Lakes
 - 💞️ I’m looking to collaborate on on Smart Stuff
-- 📫 How to reach me please message me via linkedIn
+- 📫 To reach me please message at University of Newcastle [UON Details](https://www.newcastle.edu.au/profile/daryl-bull) 
 
   <!-- Social Links -->
   <p align="center"> 
