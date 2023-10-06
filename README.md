@@ -11,7 +11,7 @@
 - 📫 To reach me please message at University of Newcastle [UON Details](https://www.newcastle.edu.au/profile/daryl-bull) 
 
   <!-- Social Links -->
-  <p align="center"> 
+  <p align="left"> 
   <a href="https://linkedin.com/in/darylbull"><img width="100px" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
   </p>
 
