@@ -37,6 +37,7 @@ These are some of my Certifications.
 <img align="left" alt="SAP" width="60px" src="https://github.com/Clissold42/images/blob/main/Sap-48.png" />
 <img align="left" alt="Jupyter" width="60px" src="https://github.com/Clissold42/images/blob/main/Jupyter_Logo-597x700.png" />
 <img align="left" alt="RStudio" width="60px" src="https://github.com/Clissold42/images/blob/main/RStudio-Logo-Flat.png" />
+<img align="left" alt="Synapse" width="60px" src="https://github.com/Clissold42/images/blob/main/azure-synapse-analytics6078.jpg" />
 
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
