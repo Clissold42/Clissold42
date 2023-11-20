@@ -35,7 +35,8 @@ These are some of my Certifications.
 <img align="left" alt="SAS" width="60px" src="https://github.com/Clissold42/images/blob/main/sas-logo-white-reversed-new.png" />
 <img align="left" alt="PowerBI" width="30px" src="https://github.com/Clissold42/images/blob/main/Power-BI.png" />
 <img align="left" alt="SAP" width="60px" src="https://github.com/Clissold42/images/blob/main/Sap-48.png" />
-<img align="left" alt="SAP" width="60px" src="https://github.com/Clissold42/images/blob/main/Jupyter_Logo-597x700.png" />
+<img align="left" alt="SAP" width="30px" src="https://github.com/Clissold42/images/blob/main/Jupyter_Logo-597x700.png" />
+<img align="left" alt="RStudio" width="60px" src="https://github.com/Clissold42/images/blob/main/RStudio-Logo-Flat.png" />
 
 <!---
 Clissold42/Clissold42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
